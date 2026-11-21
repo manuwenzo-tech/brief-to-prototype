@@ -1,0 +1,4 @@
+{
+  "framework": "vite",
+  "functions": { "api/assist.ts": { "maxDuration": 30 } }
+}
